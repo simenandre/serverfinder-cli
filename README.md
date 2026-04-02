@@ -1,4 +1,4 @@
-# rackrate
+# Server Finder CLI
 
 CLI tool that fetches and compares dedicated server auctions from Hetzner, Gigahost, OVH Eco, and OneProvider. Servers are normalized into a common format and ranked by use-case (compute, database, object-storage, cache, AI inference, observability, git-hosting).
 
